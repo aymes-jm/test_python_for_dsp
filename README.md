@@ -1,4 +1,4 @@
-#Utilisation Python et Julia sur un cas de traitement DSP simple
+# Utilisation Python et Julia sur un cas de traitement DSP simple
 ___
 
 ## Cas d'étude
