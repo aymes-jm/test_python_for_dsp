@@ -77,6 +77,12 @@ en particulier en multithreads (20 fois plus lent !)
 Pb d'écriture du code probablement...
 - La performance de traitement par FFT sous Cupy rattrape celle de Julia  
 en multithreads CPU pour une taille de signal plus importante (2^23 par ex)
+- Les compilateurs basés sur LLVM semblent très efficaces !
+- NB: Codon est une solution compilée reprenant l'essentiel de la syntaxe Python  
+Des benchmarks élémentaires démontrent son efficacité  
+Son implémentation limitée pour l'instant ne permet pas de réaliser  
+des applications de traitement du signal facilement à ce jour  
+A suivre...
 
 ___
 
